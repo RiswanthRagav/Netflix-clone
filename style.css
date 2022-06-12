@@ -29,7 +29,7 @@ h1{
     
 }
 body{
-   
+   paddding: -2px;
 }
 ul {
     list-style-type: none;
